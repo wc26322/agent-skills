@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+
+# 盲切片运行数据：断言保管区，属于本机状态，绝不能进版本库
+vault/
