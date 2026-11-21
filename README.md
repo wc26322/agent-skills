@@ -13,7 +13,7 @@
 ### 一键（Windows PowerShell）
 
 ```powershell
-git clone https://github.com/<你的用户名>/agent-skills.git
+git clone https://github.com/wc26322/agent-skills.git
 cd agent-skills
 .\install.ps1
 ```
