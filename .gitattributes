@@ -1,0 +1,5 @@
+# 统一换行符，避免跨平台 diff 噪音
+* text=auto eol=lf
+
+# Windows 脚本保持 CRLF，避免旧版 PowerShell 解析异常
+*.ps1 text eol=crlf
